@@ -1,0 +1,6 @@
+com\test\e2e\FlipkartSignUp.class
+com\test\reusable\ScreenshotLib.class
+com\test\pom\SignUpPOM.class
+com\test\reusable\BaseLib.class
+com\test\reusable\WaitLib.class
+com\test\reusable\InputData.class
